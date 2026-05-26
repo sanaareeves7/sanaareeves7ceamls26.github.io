@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like the color blue"
 
 linkedin: (https://www.linkedin.com/in/sanaa-reeves-b089b232b/)
-image: /assets/images/profile.svg
+image: assets/images/IMG_6919 (2).jpeg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
