@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+project_title: "Artificial Intelligence for Early Predictions of Cardiovascular Disease Using ECG Signal"
 
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Farouk Ganiyu-Adewumi
+  linkedin: 
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Timothy Oladunni
+  linkedin: 
 ---
