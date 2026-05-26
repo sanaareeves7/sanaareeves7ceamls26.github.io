@@ -4,12 +4,12 @@ title: About Sanaa
 display_name: Sanaa Reeves                 # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Proverbs 46:5."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
+  - "🎓 Senior, Electrical Engineering"
   - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
+  - "📍 Born & Raised in Baltimore, MD"
   - "🚀 I like the color blue"
 
 linkedin: (https://www.linkedin.com/in/sanaa-reeves-b089b232b/)
