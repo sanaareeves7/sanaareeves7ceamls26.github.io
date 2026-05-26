@@ -4,8 +4,8 @@
 # =====================================================
 
 # ----- Identity (shown in SEO + browser tab) -----
-title: Your Name Here                              # <- your name
-author: Your Name Here                             # <- your name (shown as post byline)
+title: Sanaa Reeves                             # <- your name
+author: Sanaa Reeves                            # <- your name (shown as post byline)
 description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
 email:                                             # <- (optional) contact email for SEO
 url: https://your-username.github.io               # <- your final site URL (canonical SEO links)
