@@ -4,25 +4,22 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
+  name: Farouk Ganiyu-Adewumi
   title: PhD Candidate, Computer Engineering
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/alex-morgan
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
-
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Farouk is a second year Graduate Mentor, and a graduate from Morgan State University that majored in Advanced Computer Science, and was previously part of many research programs.
+    
+    Outside of research, Farouk is not a schoolaholic. He likes to build lego sets, watch tv/movies (really enjoyes going to the movie theatre), working out. He also enjoys to read book in drama, thriller, and being shocked at the ending.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Timothy Oladunni
   title: Associate Professor, School of Engineering
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
+    Dr. Timothy Oladunni leads a research group focused on human-centered computing and
     accessibility. Their guidance has helped me sharpen my research questions and
     think more carefully about real-world impact.
 
