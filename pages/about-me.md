@@ -13,14 +13,14 @@ about:
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+      title: ART
+      description: I'm passionate about natural hairstyling and educating other on how to take care of their hair! Crocheting and Knitting clothes, accessories, and gifts for my family is something I love to do. My art skills dont stop there I also love music, dancing and singing.
     - icon: 🚲
       title: Biking
       description: Weekend trail rides are how I reset.
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: I have recently gotten into reading romance and fantasy books and I absolutely LOVE it. It truly feels like I jump into a new world with each book I read.
 
   gallery:
     - image: /assets/images/gallery-1.svg
