@@ -9,7 +9,7 @@ about:
   image: 
   linkedin: https://www.linkedin.com/in/sanaa-reeves-b089b232b/
   bio: |
-    Hi! I'm Sanaa Reeves :) I'm a rising senior pursuing a major in Electrical Engineering at Morgan State University. I'm passionate about visual and technical art, designing, building, and using content creation in all aspects whether lifestyle, hairstyling, and entertain. 
+    Hi! I'm Sanaa Reeves :) I'm a rising senior pursuing a major in Electrical Engineering at Morgan State University. I'm passionate about visual and technical art, designing, building, and using content creation in all aspects whether lifestyle, hairstyling, and entertainment. 
 
   hobbies:
     - icon: 🎨
