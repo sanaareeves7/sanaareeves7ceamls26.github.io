@@ -20,4 +20,5 @@ faculty_mentor:
   website: (https://www.linkedin.com/in/timothyoladunni/)
   bio: |
     Dr. Timothy Oladunni is an Assistant Professor of Computer Science. He is also the founder of CFD, PIT, PECT & EAT Frameworks. 
+    Fun Fact: Doesnt watch TV only Soccer
 ---
