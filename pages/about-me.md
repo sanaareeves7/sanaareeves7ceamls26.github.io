@@ -6,7 +6,8 @@ permalink: /about-me.html
 about:
   name: Sanaa Reeves 
   role: Senior, Electrical Engineering
-  image: 
+  image: <img width="1284" height="1893" alt="IMG_9530 (1)" src="https://github.com/user-attachments/assets/2bccddd7-b8f5-46c6-8163-62c333f6ce24" />
+
   linkedin: https://www.linkedin.com/in/sanaa-reeves-b089b232b/
   bio: |
     Hi! I'm Sanaa Reeves :) I'm a rising senior pursuing a major in Electrical Engineering at Morgan State University. I'm passionate about visual and technical art, designing, building, and using content creation in all aspects whether lifestyle, hairstyling, and entertainment. 
