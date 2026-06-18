@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Sanaa Reeves 
   role: Senior, Electrical Engineering
-  image: <img width="1284" height="1893" alt="IMG_9530 (1)" src="https://github.com/user-attachments/assets/2bccddd7-b8f5-46c6-8163-62c333f6ce24" />
+  image: "https://github.com/user-attachments/assets/2bccddd7-b8f5-46c6-8163-62c333f6ce24"
 
   linkedin: https://www.linkedin.com/in/sanaa-reeves-b089b232b/
   bio: |
