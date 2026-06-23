@@ -22,8 +22,8 @@ about:
     - icon: 📚
       title: Reading
       description: I have recently gotten into reading romance and fantasy books and I absolutely LOVE it. It truly feels like I jump into a new world with each book I read.
-gallery:
-    - image: assets/images/IMG_6919 (2).jpeg
+  gallery:
+    - image: 
       caption: "My beautiful client rocking her fresh Knotless Braids. -styledbysanaaajadee"
     - image: 
       caption: My Legacy Hall Inter-Residence Council that I managed during the 2025-2026 academic school year.
