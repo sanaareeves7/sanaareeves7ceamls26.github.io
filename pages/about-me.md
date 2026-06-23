@@ -23,10 +23,10 @@ about:
       title: Reading
       description: I have recently gotten into reading romance and fantasy books and I absolutely LOVE it. It truly feels like I jump into a new world with each book I read.
   gallery:
-    - image: 
+    - image: "https://github.com/user-attachments/assets/b5a60d6a-7b7f-417e-ada4-adb9c161fdbc" 
       caption: "My beautiful client rocking her fresh Knotless Braids. -styledbysanaaajadee"
-    - image: 
+    - image: "https://github.com/user-attachments/assets/81d09e37-b5dd-48c9-8e2a-94e19508dcfa" 
       caption: My Legacy Hall Inter-Residence Council that I managed during the 2025-2026 academic school year.
-    - image: 
+    - image: "https://github.com/user-attachments/assets/59e8c0f6-e677-40fd-bf0f-f60bf837eb5e"
       caption: Connected Through Christ Eboard Christmas Photoshoot of 2025-2026.
 ---
