@@ -22,8 +22,7 @@ about:
     - icon: 📚
       title: Reading
       description: I have recently gotten into reading romance and fantasy books and I absolutely LOVE it. It truly feels like I jump into a new world with each book I read.
-
-gallery:
+  gallery:
     - image: "https://github.com/user-attachments/assets/ab66434c-07bb-4222-b237-cf67b8eb48a5"
       caption: My beautiful client rocking her fresh Knotless Braids. -styledbysanaaajadee
     - image: "https://github.com/user-attachments/assets/d9b364b0-9eba-4ad6-ab03-bb528ec2fc84"
