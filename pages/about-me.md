@@ -24,10 +24,10 @@ about:
       description: I have recently gotten into reading romance and fantasy books and I absolutely LOVE it. It truly feels like I jump into a new world with each book I read.
 
   gallery:
-    - image: <img width="4284" height="5032" alt="IMG_0294" src="https://github.com/user-attachments/assets/ab66434c-07bb-4222-b237-cf67b8eb48a5" />
+    - image: "https://github.com/user-attachments/assets/ab66434c-07bb-4222-b237-cf67b8eb48a5"
       caption: My beautiful client rocking her fresh Knotless Braids. -styledbysanaaajadee
-    - image: <img width="1284" height="1504" alt="IMG_9531" src="https://github.com/user-attachments/assets/d9b364b0-9eba-4ad6-ab03-bb528ec2fc84" />
+    - image: "https://github.com/user-attachments/assets/d9b364b0-9eba-4ad6-ab03-bb528ec2fc84"
       caption: My Legacy Hall Inter-Residence Council that I managed during the 2025-2026 academic school year.
-    - image: <img width="870" height="691" alt="Screenshot 2026-06-23 112330" src="https://github.com/user-attachments/assets/17a6a156-a87e-4292-93d8-e43160fd97bf" />
+    - image: "https://github.com/user-attachments/assets/17a6a156-a87e-4292-93d8-e43160fd97bf"
       caption: Connected Through Christ Eboard Christmas Photoshoot of 2025-2026.
 ---
