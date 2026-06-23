@@ -23,7 +23,7 @@ about:
       title: Reading
       description: I have recently gotten into reading romance and fantasy books and I absolutely LOVE it. It truly feels like I jump into a new world with each book I read.
 gallery:
-    - image: "https://github.com/user-attachments/assets/ab66434c-07bb-4222-b237-cf67b8eb48a5"
+    - image: assets/images/IMG_6919 (2).jpeg
       caption: My beautiful client rocking her fresh Knotless Braids. -styledbysanaaajadee
     - image: "https://github.com/user-attachments/assets/d9b364b0-9eba-4ad6-ab03-bb528ec2fc84"
       caption: My Legacy Hall Inter-Residence Council that I managed during the 2025-2026 academic school year.
