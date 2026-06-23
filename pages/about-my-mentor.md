@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Timothy Oladunni
   title: Associate Professor, School of Engineering
-  image: 
+  image: <img width="437" height="491" alt="Screenshot 2026-06-19 115429" src="https://github.com/user-attachments/assets/6d093bcc-981d-48c9-b8ff-004f16498af8" />
   website: (https://www.linkedin.com/in/timothyoladunni/)
   bio: |
     Dr. Timothy Oladunni is an Assistant Professor of Computer Science. He is also the founder of CFD, PIT, PECT & EAT Frameworks. 
